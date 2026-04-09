@@ -1,4 +1,4 @@
-# ⛽ Fuel Widget for Android (Tankstelle)
+# ⛽🇩🇪 Fuel Widget for Android (Tankstelle)
 
 An adaptive Android widget that finds the nearest gas stations based on your location and displays current fuel prices.
 
